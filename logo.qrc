@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>aodi.jpg</file>
+        <file>baoma.jpg</file>
+        <file>benchi.png</file>
+        <file>bentian.jpg</file>
+        <file>chuanqi.jpg</file>
+        <file>fengtian.jpg</file>
+        <file>xuetielong.png</file>
+    </qresource>
+</RCC>
